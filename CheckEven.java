@@ -1,4 +1,4 @@
-package cts.basics;
+
 
 import java.util.Scanner;
 
